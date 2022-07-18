@@ -8,13 +8,11 @@ I needed a scraper of the VATSIM metar so I could display it on my streams
 
 The script requires Python 3
 You can install it from here https://www.python.org/downloads/
-*
   ```sh
   npm install npm@latest -g
   ```
   
 ### Running
-* 
   ```sh
   python main.py
   Enter airport ICAO code: 
